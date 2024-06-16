@@ -3444,6 +3444,10 @@ Created using IcoMoon - icomoon.io
   margin-bottom: 20px;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2); }
   .card .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
     min-height: 190px; }
   .card[data-background-color="orange"] {
     background-color: #378C3F; }
@@ -5205,18 +5209,15 @@ Created using IcoMoon - icomoon.io
 
 /* Experience Style */
 .cc-experience .cc-experience-header {
-  padding-top: 60px;
   padding-right: 0;
   text-align: center;
-  color: #fff;
-  text-transform: uppercase; }
+  color: #fff; }
 
 /* Education Style */
 .cc-education .h5 {
   margin-bottom: 0; }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
   padding-right: 0;
   text-align: center;
   color: #fff; }

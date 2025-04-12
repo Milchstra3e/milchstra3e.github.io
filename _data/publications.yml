@@ -7,7 +7,7 @@ main:
     pdf:
     code:
     bibtex:
-    image: ./assets/img/teaser/CAL25-MixDit-Teaser.png
+    image: ./assets/img/teaser/CAL25-MixDiT-Teaser.png
     notes:
 
   - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"

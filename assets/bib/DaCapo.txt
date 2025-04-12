@@ -1,0 +1,8 @@
+@inproceedings{kim2024dacapo,
+  title={Dacapo: Accelerating continuous learning in autonomous systems for video analytics},
+  author={Kim, Yoonsung and Oh, Changhun and Hwang, Jinwoo and Kim, Wonung and Oh, Seongryong and Lee, Yubin and Sharma, Hardik and Yazdanbakhsh, Amir and Park, Jongse},
+  booktitle={2024 ACM/IEEE 51st Annual International Symposium on Computer Architecture (ISCA)},
+  pages={1246--1261},
+  year={2024},
+  organization={IEEE}
+}

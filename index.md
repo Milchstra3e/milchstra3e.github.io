@@ -8,8 +8,8 @@ Hello! I am Changhun Oh, graduate student advised by [Prof. Jongse Park](https:/
 What I'm Interested are devising IT infrastructure to support those standing on the shoulders of giants, and learning new technologies and tools
 
 ## News
-- **[April. 2024]** Our paper **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization** about image diffusion acceleration solution is accepted to CAL 2025.
-- **[July. 2024]** Our ISCA paper has received **the Distinguished Artifact Award**.
+- **[Apr. 2024]** Our paper **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization** about image diffusion acceleration solution is accepted to CAL 2025.
+- **[Jul. 2024]** Our ISCA paper has received **the Distinguished Artifact Award**.
 - **[Mar. 2024]** Our paper **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics** about on-device continual learning solution is accepted to ISCA 2024.
 
 ## Education

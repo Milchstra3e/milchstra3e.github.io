@@ -4,9 +4,9 @@ main:
     authors: Daeun Kim, Jinwoo Hwang, <u>Changhun Oh</u>, Jongse Park
     conference_short: CAL
     conference: Computer Architecture Letters, 2025.
-    pdf:
-    code:
-    bibtex:
+    pdf: https://arxiv.org/abs/2504.08398
+    code: 
+    bibtex: ./assets/bib/MixDiT.txt
     image: ./assets/img/teaser/CAL25-MixDiT-Teaser.png
     notes:
 
@@ -16,6 +16,6 @@ main:
     conference: International Symposium on Computer Architecture, 2024.
     pdf: https://arxiv.org/abs/2403.14353
     code: https://github.com/casys-kaist/DaCapo
-    bibtex: ./assets/bib/Dacapo.txt
+    bibtex: ./assets/bib/DaCapo.txt
     image: ./assets/img/teaser/ISCA24-DaCapo-Teaser.png
     notes: Distinguished Artifact Award

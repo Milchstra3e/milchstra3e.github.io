@@ -1,0 +1,7 @@
+@article{kim2025mixdit,
+  title={MixDiT: Accelerating Image Diffusion Transformer Inference With Mixed-Precision MX Quantization},
+  author={Kim, Daeun and Hwang, Jinwoo and Oh, Changhun and Park, Jongse},
+  journal={IEEE Computer Architecture Letters},
+  year={2025},
+  publisher={IEEE}
+}

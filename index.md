@@ -8,9 +8,10 @@ Hello! I am Changhun Oh, graduate student advised by [Prof. Jongse Park](https:/
 What I'm Interested are devising IT infrastructure to support those standing on the shoulders of giants, and learning new technologies and tools
 
 ## News
-- **[Apr. 2025]** Our paper **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization** about image diffusion acceleration solution is accepted to CAL 2025.
-- **[Jul. 2024]** Our ISCA paper has received **the Distinguished Artifact Award**.
-- **[Mar. 2024]** Our paper **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics** about on-device continual learning solution is accepted to ISCA 2024.
+- **[Oct. 2025]** Our paper **Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration** has been accepted to ASPLOS 2026.
+- **[Apr. 2025]** Our paper **MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization** has been accepted to CAL 2025.
+- **[Jul. 2024]** Our ISCA paper has been received **the Distinguished Artifact Award**.
+- **[Mar. 2024]** Our paper **DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics** has been accepted to ISCA 2024.
 
 ## Education
 - **[Sep. 2024] Ph.D.** in Graduate School of AI Semiconductor, [KAIST](https://kaist.ac.kr) (Advisor: [Prof. Jongse Park](https://jongse-park.github.io/))
@@ -25,7 +26,7 @@ What I'm Interested are devising IT infrastructure to support those standing on 
 ## Experiences
 
 ### Teaching Assistant
-- **[Sep. 2024 - Dec. 2024]:** CS230(Ststem Programming) TA
+- **[Sep. 2024 - Dec. 2024]:** CS230(System Programming) TA
 - **[Sep. 2023 - Dec. 2023]:** CS411(System for Artificial Intelligence) Head TA
 - **[Sep. 2022 - Dec. 2022]:** CS230(System Programming) TA
 

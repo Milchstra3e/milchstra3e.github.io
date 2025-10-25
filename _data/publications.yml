@@ -1,10 +1,19 @@
 main:
-
+  - title: "Neo: Real-Time On-Device 3D Gaussian Splatting with Reuse-and-Update Sorting Acceleration"
+    authors: <u>Changhun Oh</u>, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, Jongse Park
+    conference_short: ASPLOS'26
+    conference: International Conference on Architectural Support for Programming Languages and Operating Systems, 2026
+    pdf:
+    code:
+    bibtex:
+    image: ./assets/img/teaser/ASPLOS26-Neo-Teaser.png
+    notes:
+    
   - title: "MixDiT: Accelerating Image Diffusion Transformer Inference with Mixed-Precision MX Quantization"
     authors: Daeun Kim, Jinwoo Hwang, <u>Changhun Oh</u>, Jongse Park
-    conference_short: CAL
-    conference: Computer Architecture Letters, 2025.
-    pdf: https://arxiv.org/abs/2504.08398
+    conference_short: CAL'25
+    conference: Computer Architecture Letters, 2025
+    pdf: https://arxiv.org/pdf/2504.08398
     code: 
     bibtex: ./assets/bib/MixDiT.txt
     image: ./assets/img/teaser/CAL25-MixDiT-Teaser.png
@@ -12,9 +21,9 @@ main:
 
   - title: "DaCapo: Accelerating Continuous Learning in Autonomous Systems for Video Analytics"
     authors: Yoonsung Kim, <u>Changhun Oh</u>, Jinwoo Hwang, Wonung Kim, Seongryong Oh, Yubin Lee, Hardik Sharma, Amir Yazdanbakhsh, Jongse Park
-    conference_short: ISCA
-    conference: International Symposium on Computer Architecture, 2024.
-    pdf: https://arxiv.org/abs/2403.14353
+    conference_short: ISCA'24
+    conference: International Symposium on Computer Architecture, 2024
+    pdf: https://arxiv.org/pdf/2403.14353
     code: https://github.com/casys-kaist/DaCapo
     bibtex: ./assets/bib/DaCapo.txt
     image: ./assets/img/teaser/ISCA24-DaCapo-Teaser.png

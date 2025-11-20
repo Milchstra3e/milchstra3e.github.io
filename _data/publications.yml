@@ -3,7 +3,7 @@ main:
     authors: <u>Changhun Oh</u>, Seongryong Oh, Jinwoo Hwang, Yoonsung Kim, Hardik Sharma, Jongse Park
     conference_short: ASPLOS'26
     conference: International Conference on Architectural Support for Programming Languages and Operating Systems, 2026
-    pdf:
+    pdf: https://arxiv.org/pdf/2511.12930
     code:
     bibtex:
     image: ./assets/img/teaser/ASPLOS26-Neo-Teaser.png
